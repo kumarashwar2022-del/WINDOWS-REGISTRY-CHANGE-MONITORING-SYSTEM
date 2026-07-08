@@ -1,5 +1,8 @@
 # WINDOWS-REGISTRY-CHANGE-MONITORING-SYSTEM
 Windows Registry Change Monitoring System is a Python-based security project that monitors Windows Registry autorun keys, creates registry baselines, detects unauthorized or suspicious changes, logs registry modifications, and generates reports to help identify malware persistence and maintain system integrity.
+[WINDOWS REGISTRY CHANGE MONITORING SYSTEM .pdf](https://github.com/user-attachments/files/29784504/WINDOWS.REGISTRY.CHANGE.MONITORING.SYSTEM.pdf)
+
+[Registry Monitoring System Presentation.pdf](https://github.com/user-attachments/files/29784518/Registry.Monitoring.System.Presentation.pdf)
 
 #Output
 
